@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zhumaonline.exercise",
+    "sha256_cert_fingerprints":
+    ["57:3A:B5:8D:75:5F:9C:37:22:6F:B5:2F:CF:F5:96:3B:99:1F:C6:CC:A8:6A:00:04:7F:0C:52:50:BD:BD:DB:E2"]
+  }
+}]

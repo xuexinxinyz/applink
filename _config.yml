@@ -1,0 +1,5 @@
+deploy:
+  type: git
+  repo: https://github.com/xuexinxinyz/xuexinxinyz.github.io.git
+  branch: main
+  token: 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
